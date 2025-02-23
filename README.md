@@ -1,5 +1,3 @@
----
-
 # **Smart Email Assistant - Chrome Extension**
 
 🚀 **A Chrome Extension for Drafting Professional Gmail Responses**  
